@@ -1,16 +1,28 @@
-## Hi there 👋
+# David Tejkl
 
-<!--
-**DavidTejkl/DavidTejkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Data Analyst / BI Analyst ** · SQL Server · Power BI · Python
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Analyst with a background in industrial operations and 5 years of hands-on 
+work with SQL Server, Power BI, and Python. My portfolio is built exclusively on 
+Czech regulatory data — ČNB ARAD API, ERÚ, ČSÚ — covering banking sector 
+performance, credit risk, and energy market analysis. Open to Data/BI Analyst 
+positions in banking, fintech, or energy sector in CZ.
+
+
+## Stack
+
+SQL Server · T-SQL · CTE · Window Functions (LAG, RANK, PARTITION BY)
+
+Power BI Desktop · DAX · Star Schema
+
+Python · pandas · requests · REST APIs
+
+
+## Certifications
+
+IBM Data Analyst Professional Certificate · Microsoft Power BI Data Analyst · Microsoft SQL Server
+
+
+
+📧 davidtejkl94@gmail.com · [LinkedIn](https://www.linkedin.com/in/david-tejkl-1155b1384/)
