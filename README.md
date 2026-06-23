@@ -1,25 +1,24 @@
 # David Tejkl
 
-**Data Analyst / BI Analyst** · SQL Server · Power BI · Python
+**Data Analyst / BI Analyst** · SQL Server · Power BI · Python · Excel
 
 ---
 
-Data Analyst with a background in industrial operations and 5 years of hands-on
-work with SQL Server, Power BI, and Python. My portfolio is built exclusively on
-Czech regulatory data — ČNB ARAD API, ERÚ, ČSÚ — covering banking sector
-performance, credit risk, and energy market analysis. Open to Data/BI Analyst
-positions in banking, fintech, or energy sector in CZ.
+Data Analyst with 5 years of hands-on experience in SQL Server (T-SQL, CTE, window functions), Power BI and Python. My portfolio is built exclusively on Czech regulatory data — OTE-CR, ČNB ARAD API, ČSÚ, Yahoo Finance — no Kaggle datasets. Cross-domain analysis connecting energy markets with financial indicators using real data used by Czech banks and regulators. Open to Data/BI Analyst roles in banking, fintech, consulting, or energy sector in CZ.
 
 ---
 
 ## Portfolio
 
-| | Project | What it covers |
-|:---:|---|---|
-| 🔴 | **energy-banking-risk-cz** *(in progress)* | Energy crisis 2021–2023 → NPL impact on Czech banks exposed to industrial borrowers |
-| ⬜ | czech-banking-intelligence | 15-year Czech banking sector analysis — CAR, NPL, ROE, NIM via ČNB ARAD API |
-| ⬜ | czech-investor-portfolio-czk | ETF & BTC returns from a CZK investor perspective — currency drag, drawdown, Sharpe |
-| ⬜ | financial-reporting-pipeline | End-to-end ETL replacing a 4-hour monthly Excel process — SQL Server Agent + Power BI Service |
+| | Project | Tech | What it covers |
+|:---:|---|---|---|
+| 🔴 | **[energy-finance-nexus](https://github.com/DavidTejkl/energy-finance-nexus)** | SQL Server · Power BI · Python · OTE-CR · ČNB | Czech spot electricity prices (175K+ rows, 15min intervals) correlated with EUR/CZK rate, PRIBOR and ČEZ stock — cross-domain energy + finance analysis |
+| ⬜ | **[czech-capital-market](https://github.com/DavidTejkl/czech-capital-market)** | Python · SQL Server · Power BI · Yahoo Finance | Prague Stock Exchange analysis — CEZ, KB, MONETA (10 years, 7 700+ rows), returns, volatility, Sharpe ratio vs. PRIBOR benchmark |
+| ⬜ | **[czech-macro-monitor](https://github.com/DavidTejkl/czech-macro-monitor)** | Python · SQL Server · Power BI · ČSÚ · ČNB | Czech macro-financial executive dashboard — inflation, GDP, unemployment vs. CNB monetary policy (repo rate, PRIBOR, FX) |
+
+> 🔴 In progress &nbsp; ⬜ Planned
+
+Each project follows the same pipeline: **Python ETL → SQL Server (star schema) → Power BI dashboard**
 
 ---
 
@@ -29,19 +28,21 @@ positions in banking, fintech, or energy sector in CZ.
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-`T-SQL` · `CTE` · `Window Functions` · `DAX` · `Star Schema` · `REST APIs`
+`T-SQL` · `CTE` · `Window Functions` · `DAX` · `Power Query` · `Star Schema` · `ETL` · `REST APIs` · `Git`
 
 ---
 
 ## Certifications
 
-| Certificate | Issuer |
-|---|---|
-| IBM Data Analyst Professional Certificate | Coursera |
-| Microsoft Power BI Data Analyst | Microsoft |
-| Microsoft SQL Server | Microsoft |
+| Certificate | Issuer | Year |
+|---|---|---|
+| IBM Data Analyst Professional Certificate | Coursera / IBM | 2026 |
+| Microsoft Power BI Data Analyst Associate | Microsoft | 2026 |
+| Microsoft SQL Server Certificate | Microsoft | 2026 |
 
 ---
 
