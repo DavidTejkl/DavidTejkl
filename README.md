@@ -4,9 +4,9 @@
 
 · SQL Server · Python · Power BI
 
-14 years of working with operational data in industry · 4 years of requirements analysis — now moving into data analytics.
+16 years of working with operational data in industry · 4 years of requirements analysis — now moving into data analytics.
 
-For 14 years I have worked in industry, where the answer to almost every problem
+For 16 years I have worked in industry, where the answer to almost every problem
 is in the data. My job has always been to collect it, read it and find out what it is telling us.
 
 **Operational data — collection and analysis**
@@ -33,7 +33,7 @@ is in the data. My job has always been to collect it, read it and find out what 
 - I bring what many junior analysts are still learning: domain knowledge of industry and energy, and the habit
   of proving a number before reporting it
 
-Technical education in automation and industrial informatics.
+Technical education in power electrical engineering, automation and and computer systems.
 
 **Open to Data / BI Analyst roles** · Olomouc · Brno · Prague · hybrid
 
@@ -88,4 +88,4 @@ How much did the 2021–2023 energy crisis cost a Czech company — and could it
 
 ---
 
-📧 davidtejkl94@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/david-tejkl-1155b1384/)
+📧 davidtejkl94@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/david-tejkl/)
