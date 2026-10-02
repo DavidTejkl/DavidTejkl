@@ -1,6 +1,6 @@
 # David Tejkl
 
-** Data / BI Analyst** · SQL Server · Python · Power BI
+**Data / BI Analyst** · SQL Server · Python · Power BI
 
 16 years of working with operational data in industry · 4 years of requirements analysis — now moving into data analytics.
 
