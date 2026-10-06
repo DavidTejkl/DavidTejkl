@@ -2,9 +2,9 @@
 
 **Data / BI Analyst** · SQL Server · Python · Power BI
 
-16 years of working with operational data in industry · 4 years of requirements analysis — now moving into data analytics.
+15 years of working with operational data in industry · 4 years of requirements analysis — now moving into data analytics.
 
-For 16 years I have worked in industry, where the answer to almost every problem
+For 15 years I have worked in industry, where the answer to almost every problem
 is in the data. My job has always been to collect it, read it and find out what it is telling us.
 
 **Operational data — collection and analysis**
